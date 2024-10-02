@@ -2,9 +2,9 @@
 
 ## Overview
 
-The **Meal Mingle Server** is a Node.js server built to call the Swiggy API and handle Cross-Origin Resource Sharing (CORS) issues 🌐. It acts as the backend for the **Meal Mingle** frontend app, ensuring smooth API communication between the client and external services like Swiggy 🚀.
+The **Meal Mingle Server** is a Node.js server built to call the Swiggy API and handle Cross-Origin Resource Sharing (CORS) issues 🌐. It acts as the backend for the [Meal Mingle Frontend](https://github.com/anchalarora/namaste-react-meal-mingle-app), Live at : [Meal Mingle App](https://mealmingle-app.netlify.app/) ensuring smooth API communication between the client and external services like Swiggy 🚀.
 
-This server is part of the **Meal Mingle** project, which allows users to browse meals, place orders, and interact with a modern, user-friendly meal ordering system. 🥡🥗
+This server is part of the **Meal Mingle** project [Meal Mingle Frontend](https://github.com/anchalarora/namaste-react-meal-mingle-app), which allows users to browse meals, place orders, and interact with a modern, user-friendly meal ordering system. 🥡🥗
 
 ## Features
 
