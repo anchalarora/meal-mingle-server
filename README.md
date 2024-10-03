@@ -13,6 +13,11 @@ This server is part of the **Meal Mingle** project [Meal Mingle Frontend](https:
 - **Seamless Integration**: ⚡ Works perfectly with the Meal Mingle frontend app to provide a smooth user experience.
 - **Efficient Performance**: 💨 Built with Node.js for fast API handling and performance optimization.
 
+## Endpoints
+/api/restaurants: 📍 Returns a list of restaurants by interacting with the Swiggy API.
+/api/menu: 📜 Returns a list of menu items from a selected restaurant by calling Swiggy’s menu API.
+/: 🎉 A simple root route to test server availability and link to the Meal Mingle live web app.
+
 ## Getting Started
 
 ### Prerequisites
